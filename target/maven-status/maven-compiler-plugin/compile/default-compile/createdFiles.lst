@@ -1,0 +1,5 @@
+http/MemoApi.class
+model/Memo.class
+http/MemoIdApi.class
+data/MemoRepository.class
+http/Res.class
